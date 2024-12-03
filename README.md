@@ -1,4 +1,6 @@
 # christmas-coding-challenge-2024
+<img src="docs/images/Christmas_Coding_Challenge_2024.png">
+
 This project was developed within the framework of the Christmas Coding Challenge 2024, organised by Women Coding Community.
 
 I am taking on this challenge as part of the book [Build a Large Language
